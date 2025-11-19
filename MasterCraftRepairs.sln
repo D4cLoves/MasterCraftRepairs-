@@ -4,6 +4,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MasterCraftRepairs_API", "M
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MasterCraftRepairs_Domain", "MasterCraftRepairs_Domain\MasterCraftRepairs_Domain.csproj", "{0655CFA4-7DB3-4A2B-B696-3DEC1C41A9CF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MasterCraftRepairs_Application", "MasterCraftRepairs_Application\MasterCraftRepairs_Application.csproj", "{B5270F14-9508-4EDB-9A24-B63CA4C63082}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MasterCraftRepairs_Core", "MasterCraftRepairs_Core\MasterCraftRepairs_Core.csproj", "{E6AFE353-BB33-41B8-B127-840DE700CD59}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MasterCraftRepairs_Infrastructure", "MasterCraftRepairs_Infrastructure\MasterCraftRepairs_Infrastructure.csproj", "{565FBB83-6E04-42A1-9169-DC6E4DBB8671}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,6 +24,18 @@ Global
 		{0655CFA4-7DB3-4A2B-B696-3DEC1C41A9CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0655CFA4-7DB3-4A2B-B696-3DEC1C41A9CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0655CFA4-7DB3-4A2B-B696-3DEC1C41A9CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5270F14-9508-4EDB-9A24-B63CA4C63082}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5270F14-9508-4EDB-9A24-B63CA4C63082}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5270F14-9508-4EDB-9A24-B63CA4C63082}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5270F14-9508-4EDB-9A24-B63CA4C63082}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6AFE353-BB33-41B8-B127-840DE700CD59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6AFE353-BB33-41B8-B127-840DE700CD59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6AFE353-BB33-41B8-B127-840DE700CD59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6AFE353-BB33-41B8-B127-840DE700CD59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{565FBB83-6E04-42A1-9169-DC6E4DBB8671}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{565FBB83-6E04-42A1-9169-DC6E4DBB8671}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{565FBB83-6E04-42A1-9169-DC6E4DBB8671}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{565FBB83-6E04-42A1-9169-DC6E4DBB8671}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 	EndGlobalSection
